@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+.item{
+    background-color: #111;
+    padding: 15px;
+    color: white;
+    text-align: justify;
+    margin: 20px;
+}
+span{
+    color: gold;
+    padding: 5px;
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    padding: 5px;
+}
+
+.item2{
+    background-color: #111;
+    padding: 15px;
+    color: white;
+    text-align: justify;
+    margin: 20px
+}
